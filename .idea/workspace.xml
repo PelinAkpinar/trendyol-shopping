@@ -168,11 +168,23 @@
       <workItem from="1578482762204" duration="133000" />
       <workItem from="1578482912843" duration="51000" />
       <workItem from="1578482983600" duration="10900000" />
+      <workItem from="1578512124280" duration="380000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/trendyol_case$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1578470921391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

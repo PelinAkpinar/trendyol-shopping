@@ -159,8 +159,7 @@ public class ShoppingCart {
 
         Set<Product> products = shoppingCart.getProducts().keySet();
         List<Category> distinctCategories = categoryHelper.getDistinctCategories(products);
-        for(Category category : distinctCategories){
-            System.out.println("Distinct:" + category.getTitle());
+        for (Category category : distinctCategories) {
         }
         double maxDiscount = 0;
         double campaignDiscount;
@@ -181,7 +180,6 @@ public class ShoppingCart {
             }
             if (toApplied != null) {
                 applyCampaign(toApplied, shoppingCart);
-                System.out.println("Applied: " + toApplied.getDiscountDecimal() + " " + toApplied.getCategory().getTitle());
                 toApplied = null;
             }
             maxDiscount = 0;

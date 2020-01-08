@@ -11,7 +11,7 @@ public class CategoryHelper {
     public List<Category> getDistinctCategories(Set<Product> products) {
         List<Category> distinctCategories = new ArrayList<>();
 
-        for (Product product : products) { // detecting distinct categories
+        for (Product product : products) {
             if (!distinctCategories.contains(product.getCategory())) {
                 distinctCategories.add(product.getCategory());
             }

@@ -20,12 +20,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W0f0ZGjeNw5LlkDMjQeyjWeWZk" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -55,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.DeliveryCostCalculatorHelperTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="trendyol-case" />
@@ -69,7 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CategoryHelperTest.it_should_get_distinct_categories_for_given_cart_rpoducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CampaignHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.helper" />
+      <option name="MAIN_CLASS_NAME" value="test.helper.CampaignHelperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="trendyol-case" />
       <extension name="coverage">
         <pattern>
@@ -79,13 +98,12 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.helper" />
       <option name="MAIN_CLASS_NAME" value="test.helper.CategoryHelperTest" />
-      <option name="METHOD_NAME" value="it_should_get_distinct_categories_for_given_cart_rpoducts" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeliveryCostCalculatorHelperTest.it_should_calculate_delivery_cost_for_given_shopping_cart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DeliveryCostCalculatorHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="trendyol-case" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +113,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test.helper" />
       <option name="MAIN_CLASS_NAME" value="test.helper.DeliveryCostCalculatorHelperTest" />
-      <option name="METHOD_NAME" value="it_should_calculate_delivery_cost_for_given_shopping_cart" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,34 +133,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test in trendyol-case" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="trendyol-case" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.test in trendyol-case" />
-      <item itemvalue="JUnit.DeliveryCostCalculatorHelperTest.it_should_calculate_delivery_cost_for_given_shopping_cart" />
-      <item itemvalue="JUnit.CategoryHelperTest.it_should_get_distinct_categories_for_given_cart_rpoducts" />
       <item itemvalue="JUnit.ShoppingCartTest" />
+      <item itemvalue="JUnit.CampaignHelperTest" />
+      <item itemvalue="JUnit.CategoryHelperTest" />
+      <item itemvalue="JUnit.DeliveryCostCalculatorHelperTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DeliveryCostCalculatorHelperTest" />
+        <item itemvalue="JUnit.CategoryHelperTest" />
+        <item itemvalue="JUnit.CampaignHelperTest" />
         <item itemvalue="JUnit.ShoppingCartTest" />
-        <item itemvalue="JUnit.test in trendyol-case" />
-        <item itemvalue="JUnit.CategoryHelperTest.it_should_get_distinct_categories_for_given_cart_rpoducts" />
-        <item itemvalue="JUnit.DeliveryCostCalculatorHelperTest.it_should_calculate_delivery_cost_for_given_shopping_cart" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

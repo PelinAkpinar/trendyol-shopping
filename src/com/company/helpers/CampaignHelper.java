@@ -29,9 +29,6 @@ public class CampaignHelper {
             quantity = 0;
         }
 
-        for(Campaign campaign : filteredCampaigns){
-            System.out.println("Filtered:" + campaign.getCategory().getTitle());
-        }
         return filteredCampaigns;
     }
 

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97bd7a13-c56b-4ce0-9b3b-9ff76137f350" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="294" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0f0ZGjeNw5LlkDMjQeyjWeWZk" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company.controllers" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="trendyol-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryHelperTest.it_should_get_distinct_categories_for_given_cart_rpoducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.helper" />
+      <option name="MAIN_CLASS_NAME" value="test.helper.CategoryHelperTest" />
+      <option name="METHOD_NAME" value="it_should_get_distinct_categories_for_given_cart_rpoducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeliveryCostCalculatorHelperTest.it_should_calculate_delivery_cost_for_given_shopping_cart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.helper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.helper" />
+      <option name="MAIN_CLASS_NAME" value="test.helper.DeliveryCostCalculatorHelperTest" />
+      <option name="METHOD_NAME" value="it_should_calculate_delivery_cost_for_given_shopping_cart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.domain" />
+      <option name="MAIN_CLASS_NAME" value="test.domain.ShoppingCartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in trendyol-case" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trendyol-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.test in trendyol-case" />
+      <item itemvalue="JUnit.DeliveryCostCalculatorHelperTest.it_should_calculate_delivery_cost_for_given_shopping_cart" />
+      <item itemvalue="JUnit.CategoryHelperTest.it_should_get_distinct_categories_for_given_cart_rpoducts" />
+      <item itemvalue="JUnit.ShoppingCartTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ShoppingCartTest" />
+        <item itemvalue="JUnit.test in trendyol-case" />
+        <item itemvalue="JUnit.CategoryHelperTest.it_should_get_distinct_categories_for_given_cart_rpoducts" />
+        <item itemvalue="JUnit.DeliveryCostCalculatorHelperTest.it_should_calculate_delivery_cost_for_given_shopping_cart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97bd7a13-c56b-4ce0-9b3b-9ff76137f350" name="Default Changelist" comment="" />
+      <created>1578291210099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578291210099</updated>
+      <workItem from="1578291213833" duration="22669000" />
+      <workItem from="1578333538359" duration="10171000" />
+      <workItem from="1578392346923" duration="20414000" />
+      <workItem from="1578424423039" duration="5098000" />
+      <workItem from="1578467428033" duration="7931000" />
+      <workItem from="1578482762204" duration="133000" />
+      <workItem from="1578482912843" duration="51000" />
+      <workItem from="1578482983600" duration="10900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/trendyol_case$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1578470921391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.domain.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/trendyol_case$test_in_trendyol_case.ic" NAME="test in trendyol-case Coverage Results" MODIFIED="1578481598005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+
+Wsquid:S1854&"@Remove this useless assignment to local variable "happyNewYear".(û÷øÉ
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Şò³ğ8…—¼¨ø-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ù¹Õ8×ê¿©ø-
+Hsquid:S1481&"1Remove this unused "happyNewYear" local variable.(û÷øÉ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÓüÖ¼
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Şò³ğ

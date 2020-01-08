@@ -1,0 +1,41 @@
+
+„squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ƒßşë
+U
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(ˆá®ãşÿÿÿÿ
+P
+squid:S106è"9Replace this use of System.out or System.err by a logger.(ÙÊáÒ
+asquid:HiddenFieldCheck6"?Rename "totalAmount" which hides the field declared at line 15.(ŠÙ³Ç
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+vsquid:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(š£Éàøÿÿÿÿ8·¿ò¨ø-
+U
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(†¾ÀÎıÿÿÿÿ
+Lsquid:S2864Ü"4Iterate over the "entrySet" instead of the "keySet".(Şœ¡ 
+_squid:HiddenFieldCheck "<Rename "products" which hides the field declared at line 14.(Ï«‹ğ
+\
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ÖõÄÔøÿÿÿÿ8ÍÚ©ø-
+P
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(»Õëş
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+psquid:S3776`"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸²îà8êÖó¨ø-
+dsquid:HiddenFieldCheckÑ"<Rename "products" which hides the field declared at line 14.(¢¾Öıùÿÿÿÿ
+W
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(™…âß8¦¶ü¨ø-
+P
+squid:S106á"9Replace this use of System.out or System.err by a logger.(Ø÷¥ø
+U
+squid:S106â"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+Psquid:S28649"4Iterate over the "entrySet" instead of the "keySet".(¤Éºûûÿÿÿÿ
+€squid:S1192Ô"cDefine a constant instead of duplicating this literal "----------------------------------" 3 times.(Õ÷õúÿÿÿÿ
+U
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(²Ç…Ãøÿÿÿÿ
+W
+squid:S106£"9Replace this use of System.out or System.err by a logger.(ƒé­ø8ç°°©ø-
+P
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(ãÛĞ¼
+Œsquid:S1319"pThe type of the "products" object should be an interface such as "Map" rather than the implementation "HashMap".(˜ÔøÈüÿÿÿÿ
+P
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(»ôÖì
+U
+squid:S106à"9Replace this use of System.out or System.err by a logger.(üÉúÏüÿÿÿÿ
